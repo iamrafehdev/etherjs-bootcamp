@@ -2,9 +2,8 @@
   "name": "etherjs-bootcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "accounts.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon accounts.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
